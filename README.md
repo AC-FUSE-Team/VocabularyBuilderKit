@@ -13,17 +13,21 @@ maps them to according terms in a pre-configured vocabulary.
 
 The Kit includes the following components.
 
-**Vocabulary Builder application** (VB app) uses computer vision to recognize marked objects in the scene
+- **Vocabulary Builder application** (VB app) uses computer vision to recognize marked objects in the scene
 image and then associates them with terms from the pre-configured list.
+[Vocabulary Builder GitHub repository](https://github.com/AC-FUSE-Team/VocabularyBuilder)
 
-**MarkerPicker** calibrates VB app to the current lightning conditions.
+- **Marker Picker** calibrates VB app to the current lightning conditions.
+[Marker Picker GitHub repository](https://github.com/AC-FUSE-Team/MarkerPicker)
 
 Both the applications run on the **custom tablet** with camera and touch screen.
+
 
 ## Status
 
 The Kit is a Proof-Of-Concept fully functional prototype. Future developments ideas are presented in the
 repositories of the individual applications.
+
 
 ## Credits
 
@@ -31,4 +35,5 @@ UX - Omar Egeh, Nataliya Korovkina
 Application architecture, Computer Vision functionality, GUI final touches - Nataliya Korovkina
 GUI development and Vocabulary support - Sang Zhu
 
-Presentation:
+[Presentation (Canva)](https://www.canva.com/design/DAHP2eVh7kg/2zg9JrCDW1frS_9lmSF87Q/edit)
+
